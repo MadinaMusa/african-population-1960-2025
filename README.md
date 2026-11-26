@@ -10,7 +10,6 @@
 - Data Source Recorded in Workbook: World Development Indicators (WDI)
 - Data Update Date Recorded: 11 November 2026
 - Report Date: 24 November 2026
-________________________________________
 
 ## 1. Executive Summary
 This project examines population trends across 54 African countries between 1960 and 2025. The analysis explores historical population changes, overall continental growth, country-level population comparisons and the distribution of population across African countries.
