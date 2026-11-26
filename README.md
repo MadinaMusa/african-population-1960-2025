@@ -109,7 +109,7 @@ Following the completion of the Excel analysis, this project progresses into SQL
 
 This next phase builds upon the Excel findings and demonstrates the application of SQL in structured data management and analytical investigation.
 
-## Related Project:
+#### Related Project:
 See the `02_SQL/` folder for the SQL analysis, queries and accompanying report.
 
 #### Prepared by: Madina Musa
