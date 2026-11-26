@@ -102,6 +102,16 @@ Further analysis using additional demographic indicators could provide deeper in
 The next stage of this project will use SQL to query, validate, aggregate and analyze the same population dataset.
 This will demonstrate the ability to work with structured databases and perform analytical queries beyond spreadsheet-based analysis.
 
+
+## 10. Next Phase: SQL Data Analysis
+
+Following the completion of the Excel analysis, this project progresses into SQL-based data analysis using MySQL. The same Africa population dataset will be imported into a relational database to perform data validation, population aggregation, country rankings, growth rate analysis and historical population comparisons.
+
+This next phase builds upon the Excel findings and demonstrates the application of SQL in structured data management and analytical investigation.
+
+## Related Project:
+See the `02_SQL/` folder for the SQL analysis, queries and accompanying report.
+
 #### Prepared by: Madina Musa
 #### Project Title: Africa Population Analysis (1960–2025)
 
