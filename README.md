@@ -66,7 +66,8 @@ Rank	Country	Population
 - 8	Sudan	51,662,147
 - 9	Uganda	51,384,894
 - 10	Algeria	47,435,312
-  
+
+  [Click here to explore my Africa Population Analysis (1960–2025)](African_Population_Analysis_1960_2025.xlsx)
 #### Nigeria recorded the highest population among the 54 countries in the 2025 dataset.
 ### 5.3 Country-Level Comparisons
 The project compared historical population trends across five selected countries:
